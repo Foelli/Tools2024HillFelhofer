@@ -5,6 +5,7 @@ public class App {
 
     public  void thisIsANewMethod() {
         int meow = 3;
+        meow += 4;
         int homeowner = 1;
     }
 }
