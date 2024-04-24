@@ -7,5 +7,6 @@ public class App {
         int meow = 3;
         meow += 4;
         int homeowner = 1;
+         homeowner = -1;
     }
 }
