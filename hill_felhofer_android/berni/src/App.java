@@ -3,8 +3,9 @@ public class App {
         System.out.println("Bye");
     }
 
-    public  void thisIsANewMethod() {
+    public void thisIsANewMethod() {
         int meow = 3;
         int homeowner = 1;
+        String D4C = "Filthy Acts At A Reasonable Price";
     }
 }
