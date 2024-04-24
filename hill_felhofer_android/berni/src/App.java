@@ -3,5 +3,7 @@ public class App {
         System.out.println("Bye");
     }
 
-    public  void thisIsANewMethod() {}
+    public  void thisIsANewMethod() {
+        int meow = 3;
+    }
 }
