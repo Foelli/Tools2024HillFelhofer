@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Bye");
+        System.out.print("WoMeN in sTeM");
     }
 
     public void thisIsANewMethod() {
